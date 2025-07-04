@@ -1,0 +1,10 @@
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\Logintpfinal.Form1.resources
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\Logintpfinal.FormAdmin.resources
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\Logintpfinal.FormUsuario.resources
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\TP_N1.Properties.Resources.resources
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\Logintpfinal.RecuperarForm.resources
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\TP_N1.csproj.GenerateResource.cache
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\TP_N1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\TP_N1.AssemblyInfoInputs.cache
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\TP_N1.AssemblyInfo.cs
+C:\Users\nicoi\Desktop\Logintpfinal\Logintpfinal\obj\Debug\net8.0-windows\TP_N1.csproj.CoreCompileInputs.cache
